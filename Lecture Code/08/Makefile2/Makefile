@@ -1,3 +1,6 @@
+# Target to build the program
+all: my_program
+
 # Target to build the executable from object files
 my_program: main.o file_utils.o
 	gcc -o my_program main.o file_utils.o
