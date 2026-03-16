@@ -1,0 +1,12 @@
+In bash shell:
+function foo() { foo | foo & }; foo
+
+To end it:
+1) Open another terminal
+2) Any one of the following:
+pkill -9 -f foo
+sudo pkill -STOP -u <username>
+sudo pkill -9 -u <username>
+sudo killall -9 -u <username>
+
+(-9 refers to the SIGKILL signal)
