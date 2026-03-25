@@ -20,12 +20,18 @@ This course focuses on system programming with an emphasis on how programs inter
 * **Version Control:** A GitHub account is required for all submissions
 * **Requirement:** Any modern system with at least 8GB of RAM
 
-## 📚 Course Topics
-* Process structure and memory segments
-* Multithreaded programming and synchronization
-* Network sockets and inter-system communication
-* Security principles (Confidentiality, Integrity, Availability)
-* Virtualization and containers
+## 📚 Detailed Course Topics
+The following major topics are covered in this course:
+* **Introduction:** Role of the OS and Virtual Machine use
+* **Linux Foundations:** Bash shell, common tools, and Linux security basics
+* **C Programming:** Core C programming and C software security
+* **Process Management:** Process structure, resources, and signals
+* **Memory Management:** Segments and manual dynamic allocation
+* **Filesystems:** Working with system files and data
+* **Concurrency:** Multithreaded programming, synchronization, and deadlock
+* **Communication:** Interprocess communication and network sockets
+* **Distributed Systems:** Parallel and distributed computing and network security
+* **Isolation:** Virtualization and containers 
 
 ## 📝 Grading & Exams
 | Category | Weight |
