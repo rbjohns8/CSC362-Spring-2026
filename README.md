@@ -3,7 +3,7 @@
 This course focuses on system programming with an emphasis on how programs interact with the operating system and utilize system services. The curriculum sits between hardware/assembly language (CSC 261) and higher-level application programming (CSC 230).
 
 ## 👨‍🏫 Instructor Information
-* **Instructor:** Dr. Richard Johnson
+* **Instructor:** Dr. Richard B. Johnson
 * **Office:** Petty 006
 * **Office Hours:** MWF, 12:00 PM – 12:50 PM
 * **Email:** rbjohns4@uncg.edu
